@@ -44,6 +44,17 @@ The primary objective of this project is to:
   <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
 </p>
 
+## 🔍 Features of the Dashboard
+
+✔ Fully Interactive Filters (Weather, Wind Condition, Year, Date)
+✔ KPI Cards with Percentage Indicators
+✔ Dynamic Charts & Trend Analysis
+✔ Clean & Modern Dashboard Layout
+✔ Data-Driven Decision Support
+✔ Professional Color Theme & Visual Hierarchy
+
+---
+
 ## 📊 Key Insights from Dashboard
 
 ### 🔹 Total Casualties
@@ -108,17 +119,6 @@ Interactive line chart showing:
 * Year-wise comparison (2019–2023)
 * Monthly casualty fluctuation
 * Seasonal patterns in road accidents
-
----
-
-## 🔍 Features of the Dashboard
-
-✔ Fully Interactive Filters (Weather, Wind Condition, Year, Date)
-✔ KPI Cards with Percentage Indicators
-✔ Dynamic Charts & Trend Analysis
-✔ Clean & Modern Dashboard Layout
-✔ Data-Driven Decision Support
-✔ Professional Color Theme & Visual Hierarchy
 
 ---
 

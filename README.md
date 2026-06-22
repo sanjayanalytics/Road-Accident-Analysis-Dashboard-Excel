@@ -10,12 +10,6 @@ It is designed to help stakeholders, analysts, and decision-makers understand ac
 
 ---
 
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
-</p>
-
 ## 🎯 Objective
 
 The primary objective of this project is to:
@@ -28,6 +22,27 @@ The primary objective of this project is to:
 * Provide interactive filtering for dynamic data exploration
 
 ---
+
+## 🛠 Tools & Techniques Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers (Interactive Filters)
+* Timeline Filter (Year-based analysis)
+* Doughnut Charts
+* Bar Charts
+* Line Charts
+* Conditional Formatting
+* Custom Dashboard UI Design
+
+---
+
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
+</p>
 
 ## 📊 Key Insights from Dashboard
 
@@ -93,21 +108,6 @@ Interactive line chart showing:
 * Year-wise comparison (2019–2023)
 * Monthly casualty fluctuation
 * Seasonal patterns in road accidents
-
----
-
-## 🛠 Tools & Techniques Used
-
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers (Interactive Filters)
-* Timeline Filter (Year-based analysis)
-* Doughnut Charts
-* Bar Charts
-* Line Charts
-* Conditional Formatting
-* Custom Dashboard UI Design
 
 ---
 
